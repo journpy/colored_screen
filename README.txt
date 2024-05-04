@@ -1,0 +1,2 @@
+This simple program introduces Grade 3 & 4 pupils to game development in Pygame. It changes the colour of the screen by a KEYDOWN event. 
+Students are not required to reproduce the code but they should be guided to read the code and understand what each line is doing. 
